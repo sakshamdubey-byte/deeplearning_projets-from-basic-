@@ -1,21 +1,21 @@
 # Deep Learning Projects
 
-A collection of hands-on deep learning projects progressing from core fundamentals to state-of-the-art architectures.
+A collection of hands-on deep learning models built from the ground up, moving from single-unit logic gates to full neural networks.
 
 ---
 
-### 1️⃣ Level 1: Deep Learning Fundamentals
-* **Overview:** Focuses on the core mechanics of neural networks, including perceptrons, activation functions, and backpropagation.
-* **Key Focus:** Building multi-layer perceptrons from scratch and training basic classification models on standard datasets.
+### 1️⃣ Project 1: XOR Perceptron
+* **Overview:** Demonstrates the fundamental limitations of single-layer perceptrons when solving non-linearly separable problems like XOR.
+* **Key Focus:** Implementing single-layer threshold logic units to visualize linear decision boundaries and fail cases.
 
 ---
 
-### 2️⃣ Level 2: Computer Vision & Sequence Modeling
-* **Overview:** Covers specialized architectures designed for processing spatial image data and sequential time-series or text data.
-* **Key Focus:** Implementing Convolutional Neural Networks (CNNs) for image recognition alongside Recurrent Neural Networks (RNNs/LSTMs) for NLP tasks.
+### 2️⃣ Project 2: XOR Neural Network
+* **Overview:** Resolves the non-linear XOR boundary by introducing a hidden layer to create a multi-layer perceptron (MLP).
+* **Key Focus:** Building a basic 2-layer neural network from scratch with activation functions to capture non-linear relationships.
 
 ---
 
-### 3️⃣ Level 3: Transformers & Generative AI
-* **Overview:** Explores modern deep learning paradigms powering large-scale artificial intelligence applications.
-* **Key Focus:** Constructing self-attention Transformer mechanisms from scratch and fine-tuning pre-trained generative LLMs on custom tasks.
+### 3️⃣ Project 3: Neural Network from Scratch
+* **Overview:** A complete, general-purpose neural network framework implemented entirely without high-level deep learning libraries.
+* **Key Focus:** Writing manual forward propagation, loss computation, backpropagation calculus, and gradient descent optimization from scratch.

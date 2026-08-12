@@ -16,6 +16,16 @@ A collection of hands-on deep learning models built from the ground up, moving f
 
 ---
 
+
+
 ### 3️⃣ Project 3: Neural Network from Scratch
 * **Overview:** A complete, general-purpose neural network framework implemented entirely without high-level deep learning libraries.
 * **Key Focus:** Writing manual forward propagation, loss computation, backpropagation calculus, and gradient descent optimization from scratch.
+
+---
+
+### 2️⃣ Project 4: MNIST_CLASSIFIER_FROM_SCRATCH
+* **Overview:** digit classification over a small dataset ,using neural network implmented from scratch ,instead of using a kers or pytorch libraries .
+* **Key Focus:** understanding and learning neural networks .
+
+---
